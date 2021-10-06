@@ -1,4 +1,4 @@
-*Output update coming in September 2021*
+⚠️ This repository has been deprecated and is now read only. NHSX PhD Internship Projects are now available here - https://github.com/nhsx/nhsx-internship-projects
 
 # Synthetic Data Exploration: 
 ## Longitudinal
